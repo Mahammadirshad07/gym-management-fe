@@ -73,7 +73,7 @@ function Home() {
                       </div>
                       <div className="text-left w-full">
                           <div className="flex justify-between items-center">
-                              <h3 className="text-black font-bold text-xl">Command Center</h3>
+                              <h3 className="text-black font-bold text-xl">Admin Center</h3>
                               <ArrowRight className="w-5 h-5 text-black -translate-x-4 opacity-0 group-hover:opacity-100 group-hover:translate-x-0 transition-all duration-300" />
                           </div>
                           <p className="text-zinc-600 text-xs font-mono mt-1 font-medium">Restricted Personnel</p>
